@@ -1,0 +1,19 @@
+{
+  "name": "switch_spots",
+  "version": "1.0.0",
+  "description": "Merging past youtube library with spotify likes playlist creating true collection of appreciated music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinsleyWA/merging_taste.git"
+  },
+  "author": "kewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinsleyWA/merging_taste/issues"
+  },
+  "homepage": "https://github.com/KinsleyWA/merging_taste#readme"
+}
